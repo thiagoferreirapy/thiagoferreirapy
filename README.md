@@ -5,7 +5,9 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=THIAGO&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Trabalhando na {nome da empresa}<br/> Eu sou desenvolvedor {sua stack}</p>
+<p>Sou apaixonado por tecnologia e procuro sempre adquirir cada vez mais conhecimentos. Já desenvolvi alguns
+projetos incríveis em equipe, onde desenvolvi um espírito de liderança e companheirismo.
+</p>
 <a href="mailto:tf938383@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://www.linkedin.com/in/thiago-ferreirapy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
