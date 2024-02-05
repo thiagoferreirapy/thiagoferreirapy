@@ -11,7 +11,9 @@ projetos incríveis em equipe, onde desenvolvi um espírito de liderança e comp
 <a href="mailto:tf938383@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://www.linkedin.com/in/thiago-ferreirapy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://web.whatsapp.com/send?phone=5561994162084" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="LinkedIn"></a>
-
+<a href="https://docs.google.com/document/d/1VzzEljiXx3hL09a_fqFelOuJwoq7fT8pvlQ79J9JNpM/edit?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Curr%C3%ADculo-blue?style=for-the-badge&logo=google-drive&logoColor=white" alt="Currículo">
+</a>
 <br><br>
 
 <h2 align="center">💻 Minhas Skills:</h2>
