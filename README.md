@@ -5,9 +5,12 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=THIAGO&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Sou apaixonado por tecnologia e procuro sempre adquirir cada vez mais conhecimentos. Já desenvolvi alguns
-projetos incríveis em equipe, onde desenvolvi um espírito de liderança e companheirismo.
+<p>
+  Se eu realmente gosto de programação? Você pode me perguntar: <br/> "Você está na programação por amor ou por dinheiro?". E eu vou te responder: por amor, porque dinheiro eu ainda não tô vendo... 😆
+<br/>
+  O que realmente me motiva é a paixão por criar sistemas, resolver problemas e transformar ideias em código. Isso, pra mim, é o que realmente importa!
 </p>
+
 <a href="mailto:tf938383@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://www.linkedin.com/in/thiago-ferreirapy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://web.whatsapp.com/send?phone=5561994162084" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="LinkedIn"></a>
